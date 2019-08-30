@@ -1,0 +1,15 @@
+.nav-link, .nav-link.disabled {
+    color: green;
+
+}
+.col-sm {
+    text-align:center;
+}
+.jumbotron-fluid {
+    color: blue;
+
+}
+.jumbotron-fluid {
+    background: pink;
+    
+}
